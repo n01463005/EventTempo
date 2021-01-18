@@ -1,0 +1,13 @@
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.exe
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.deps.json
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.runtimeconfig.json
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.runtimeconfig.dev.json
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.dll
+C:\Users\Danny\source\repos\Temporary\Temporary\bin\Debug\netcoreapp3.1\Temporary.pdb
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.dll
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.pdb
+C:\Users\Danny\source\repos\Temporary\Temporary\obj\Debug\netcoreapp3.1\Temporary.genruntimeconfig.cache
